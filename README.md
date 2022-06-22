@@ -1,2 +1,2 @@
 # Simulasi-Mininet---Jaringan-Komputer
-Tugas Besar JAringan Komputer
+Tugas Besar Jaringan Komputer
